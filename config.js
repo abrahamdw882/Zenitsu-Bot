@@ -10,28 +10,28 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['918348225320'] //ur number 
-global.OwnerNumber = ['918348225320']
-global.ownertag = ['918348225320']
+global.Owner = ['918602306506'] //ur number 
+global.OwnerNumber = ['918602306506']
+global.ownertag = ['918602306506']
 global.BotName = "ZenitsuBot" //ur bot name 
-global.packname = "ZenitsuBot"
-global.author = "🦄Dream Guy Deepak" //ur sticker pack name 
-global.OwnerName = "🦄Dream Guy Deepak" //ur name
-global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
-global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
+global.packname = "Ayush | Developer"
+global.author = "Ayush" //ur sticker pack name 
+global.OwnerName = "Ayush" //ur name
+global.BotSourceCode = "https://youtube.com/@ayushmuzik1037" //ur website link
+global.SupportGroupLink = "https://chat.whatsapp.com/EtOA0RzrV2W6SSPLenPluL" //ur group link 
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Zenitsu.js  otherwise buttons will not work //
-global.prefa = ['.'] 
+global.prefa = [','] 
 
 
-global.location = "Darjeeling, India"
+global.location = "Madhya Pradesh, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://i.ibb.co/vXnjzpr/cheemspic.jpg' }
-global.websitex = "https://youtube.com/@dreamguydeepak"
-global.lolhuman = "Deepak"
+global.websitex = "https://youtube.com/@ayushmuzik1037"
+global.lolhuman = "Ayush"
 
 
 global.BotLogo = fs.readFileSync("./Assets/cheemspic.jpg")

@@ -2157,12 +2157,12 @@ replay('This Group has been *unbanned* from using me!')
 
 case 'support': case 'supportgc':
     
-    reply(`*My developer's group:* https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1`)
+"reply(`*My creator's number:* wa.me918602306506`)
     break
 
 case 'repo': case 'botrepo':
     
-    reply(`YouTube - https://youtube.com/@dreamguydeepak`)
+    reply(`YouTube - https://youtube.com/@ayushmuzik1037`)
     break
 
 case 'nsfwmenu':
@@ -6023,9 +6023,8 @@ How are you👻?
 ╠🦄 ${prefix}support 
 ╚═════════════✪
 ╔══〘 *Thanks To❤‍🩹* 〙═══✪ 
-╠🦄Xeon
-╠🦄Sparky
-╠🦄Deepak (me)
+╠🦄LORD KRISHNA
+╠🦄Ayush (me)
 ╠🦄And all friends who helped assemble this sexy script !!!
 ╚═════════════✪ `
     

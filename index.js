@@ -26,8 +26,8 @@ console.log(color(figlet.textSync('ZenitsuBot', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Deepak, the main Developer of this bot.\n\nThanks for using: Zenitsu Bot','aqua'))
-console.log(color('\nYou can follow me on Instagram: deepak_gupta_2006','aqua'))
+console.log(color('\nHello, I am Ayush, the main Developer of this bot.\n\nThanks for using: Zenitsu Bot','aqua'))
+console.log(color('\nYou can follow me on Instagram: itzmathis_god','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const Deepak = DeepakConnect({

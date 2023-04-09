@@ -5483,7 +5483,7 @@ How are you👻?
 
 
 ╔══〘 Zenitsu-Bot Info 〙═══✪
-╠🦄Owner : 🦄Dream Guy Deepak
+╠🦄Owner : 🦄DAyush
 ╠🦄User :  ${pushname}
 ╠🦄Prefix : [ ${prefix} ]
 ╠🦄Mode : Public
@@ -5491,7 +5491,7 @@ How are you👻?
 ╠🦄Speed : ${latensie.toFixed(4)} ms
 ╠🦄Runtime :  ${runtime(process.uptime())}
 ╠🦄Total Bot User : ${Object.keys(global.db.users).length}
-╠🦄Bot Number: 919679744547
+╠🦄Creator Number: 918602306506
 ╚══Zenitsu-Bot════✪
 ╭────────────────···▸
 │     [ *TODAY* ]

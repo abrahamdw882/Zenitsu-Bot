@@ -10,13 +10,13 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['918602306506'] //ur number 
-global.OwnerNumber = ['918602306506']
-global.ownertag = ['918602306506']
+global.Owner = ['233576635791'] //ur number 
+global.OwnerNumber = ['233576635791']
+global.ownertag = ['233576635791']
 global.BotName = "ZenitsuBot" //ur bot name 
-global.packname = "Ayush | Developer"
-global.author = "Ayush" //ur sticker pack name 
-global.OwnerName = "Ayush" //ur name
+global.packname = "ABRAHAM | Developer"
+global.author = "ABRAHAM" //ur sticker pack name 
+global.OwnerName = "ABRAHAM" //ur name
 global.BotSourceCode = "https://youtube.com/@ayushmuzik1037" //ur website link
 global.SupportGroupLink = "https://chat.whatsapp.com/EtOA0RzrV2W6SSPLenPluL" //ur group link 
 global.sessionName = "session"
@@ -26,12 +26,12 @@ global.sessionName = "session"
 global.prefa = [','] 
 
 
-global.location = "Madhya Pradesh, India"
+global.location = "ACCRA, GHANA"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://i.ibb.co/vXnjzpr/cheemspic.jpg' }
 global.websitex = "https://youtube.com/@ayushmuzik1037"
-global.lolhuman = "Ayush"
+global.lolhuman = "ABRAHAM"
 
 
 global.BotLogo = fs.readFileSync("./Assets/cheemspic.jpg")
@@ -61,19 +61,19 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job done...',
+    jobdone: 'AB bot is done...',
     useradmin: 'Sorry, only *Group Admins* can use this command *Dear*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Yeah!',
+    botowner: 'Only my *Owner Abraham* can use this command, Yeah!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Okey ?!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: ' Ruko Zara...',
     nolink: 'Please provide me *link*, Uff!',
-    error: 'An error occurd!',
+    error: 'An error contact my owner please !',
     banned: 'You are *Banned* fron using commands!, Haha',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert  Uff! This is not a NSFW enabled group!, Uff!,'
+    nonsfw: 'Dont be a pervert cause Abraham hateS that  Uff! This is not a NSFW enabled group!, Uff!,'
     
 }
 

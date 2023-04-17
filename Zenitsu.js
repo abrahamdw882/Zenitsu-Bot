@@ -5483,7 +5483,7 @@ How are you👻?
 
 
 ╔══〘 Zenitsu-Bot Info 〙═══✪
-╠🦄Owner : 🦄DAyush
+╠🦄Owner : 🦄DAbraham Dwamena
 ╠🦄User :  ${pushname}
 ╠🦄Prefix : [ ${prefix} ]
 ╠🦄Mode : Public
@@ -5491,7 +5491,7 @@ How are you👻?
 ╠🦄Speed : ${latensie.toFixed(4)} ms
 ╠🦄Runtime :  ${runtime(process.uptime())}
 ╠🦄Total Bot User : ${Object.keys(global.db.users).length}
-╠🦄Creator Number: 918602306506
+╠🦄Creator Number: 233576635791
 ╚══Zenitsu-Bot════✪
 ╭────────────────···▸
 │     [ *TODAY* ]
@@ -5499,7 +5499,7 @@ How are you👻?
 │▸ *Date* : ${kaidate}
 ╰────────────────···▸
 ╭────────────────···▸
-│▸Here's the list of my Commands.
+│▸Here's the list of ABRAHAM BOT Commands.
 ╰────────────────···▸
 ╔══〘 *Main* 〙═══✪
 ╠🦄 ${prefix}say (tts)
@@ -6023,8 +6023,8 @@ How are you👻?
 ╠🦄 ${prefix}support 
 ╚═════════════✪
 ╔══〘 *Thanks To❤‍🩹* 〙═══✪ 
-╠🦄LORD KRISHNA
-╠🦄Ayush (me)
+╠🦄JESUS OUR LORD
+╠🦄Abraham (me)
 ╠🦄And all friends who helped assemble this sexy script !!!
 ╚═════════════✪ `
     

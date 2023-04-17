@@ -7481,7 +7481,7 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcinfinite 91xxxxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `🦄ABRAHAM DWAMENA⸙xbugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 
@@ -7527,7 +7527,7 @@ if (!text) return reply(`${mess.attack}\nExample: ${prefix}pcgcinfinite 91xxxxxx
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `🦄ᵈʳᵉᵃᵐ ᵍᵘʸ ˣᵉᵒⁿ⸙xbugbot`,
+                            "caption": `🦄ABRAHAM DWAMENA/XEON⸙xbugbot`,
                             "jpegThumbnail": xpicvirus
                         } 
                     } 

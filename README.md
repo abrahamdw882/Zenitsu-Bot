@@ -1,12 +1,12 @@
 
 
-<h1 align="center">ꪶZenitsu-Botꫂ<br></h1>
+<h1 align="center">ꪶ ABRAHAM /Zenitsu-Botꫂ<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/vXnjzpr/cheemspic.jpg"
 </p>
 
 <p align="center">
-Zenitsu-Bot Multi Device is a automated whatsapp bot developed by <a href="https://youtube.com/@dreamguydeepak" target="_blank">Deepak</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+Zenitsu-Bot Multi Device is a automated whatsapp bot developed by <a href="https://youtube.com/@dreamguydeepak" target="_blank">ABRAHAM</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 <p align="center">
